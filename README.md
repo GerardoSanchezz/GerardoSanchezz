@@ -24,6 +24,11 @@ Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, con
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoSanchezz&hide_progress=True)
+
+ <h3 align="left">Contacto:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gerardo-ulises-s%C3%A1nchez-f%C3%A9lix-04aa58266/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
  
 
 
