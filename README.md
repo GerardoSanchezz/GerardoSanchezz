@@ -14,7 +14,7 @@ Soy Gerardo Sánchez, un apasionado estudiante de Ingeniería en Tecnologías Co
 Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, contribuir con proyectos emocionantes y colaborar con equipos talentosos que compartan mi pasión por la innovación y el desarrollo de soluciones impactantes.
 
 <p align="center">
-  <img alt="Minion bailando" width="400" src="Minion bailando.gif">
+  <img alt="Minion bailando" width="200" src="Minion bailando.gif">
 </p>
 - 🌱 Ahora mismo estoy aprendiendo la cultura de Devops
 
@@ -23,7 +23,10 @@ Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, con
 ¡Estoy emocionado por lo que el futuro me depara y por las oportunidades de colaboración que pueda encontrar aquí en GitHub!
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoSanchezz&hide_progress=True)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoSanchezz&hide_progress=True" alt="Top Langs">
+</p>
+
 
  <h3 align="left">Contacto:</h3>
 <p align="left">
