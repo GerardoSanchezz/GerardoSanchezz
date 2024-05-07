@@ -15,9 +15,12 @@ I am Gerardo Sánchez, a passionate student of Computer Engineering at the Tecno
 <p align="center">
   <img alt="Minion bailando" width="200" src="Minion bailando.gif">
 </p>
-- **Languages**: 
+- **Languages**:
+
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+  
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
   ![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=c%2B%2B)
   ![C](https://img.shields.io/badge/-C-red?style=flat-square&logo=c)
