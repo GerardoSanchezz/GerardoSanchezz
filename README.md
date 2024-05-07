@@ -19,7 +19,7 @@ Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, con
 
 ![Gerardo Sánchez GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoSanchezz&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoSanchezz&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoSanchezz&hide_progress=false)
 
 
 
