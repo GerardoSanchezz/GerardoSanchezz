@@ -17,9 +17,7 @@ Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, con
 
 ¡Estoy emocionado por lo que el futuro me depara y por las oportunidades de colaboración que pueda encontrar aquí en GitHub!
 
-[![Gerardo Sánchez GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoSanchezz)](https://github.com/GerardoSanchezz/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoSanchezz&show_icons=true&theme=radical)
+![Gerardo Sánchez GitHub stats](https://github-readme-stats.vercel.app/api?username=Odyzseo&show_icons=true&theme=radical)
 
 
 
