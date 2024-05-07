@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 -->
 Soy Gerardo Sánchez, un apasionado estudiante de Ingeniería en Tecnologías Computacionales en la Universidad Tec de Monterrey. Mi fascinación por la tecnología se manifiesta principalmente en mi interés por el manejo de bases de datos y el desarrollo de backend.
 Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, contribuir con proyectos emocionantes y colaborar con equipos talentosos que compartan mi pasión por la innovación y el desarrollo de soluciones impactantes.
+ <img align="center" alt="Minion bailando" width="400" src="Minion bailando.gif">
 
 - 🌱 Ahora mismo estoy aprendiendo la cultura de Devops
 
-  <img align="right" alt="Coding" width="400" src="Minion bailando.gif">
+
 
 ¡Estoy emocionado por lo que el futuro me depara y por las oportunidades de colaboración que pueda encontrar aquí en GitHub!
 
