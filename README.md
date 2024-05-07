@@ -19,5 +19,7 @@ Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, con
 
 [![Gerardo Sánchez GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+![Gerardo Sánchez GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 
