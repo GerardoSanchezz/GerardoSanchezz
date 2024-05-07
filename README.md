@@ -40,7 +40,7 @@ I am Gerardo Sánchez, a passionate student of Computer Engineering at the Tecno
 You can reach me via:
 
 - 📧 Email: [gerardosanchezz14@hotmail.com](mailto:gerardosanchezz14@hotmail.com)
-- 💼 LinkedIn: [Gerardo Ulises Sanchez Felix](https://www.linkedin.com/in/https://www.linkedin.com/in/gerardo-ulises-s%C3%A1nchez-f%C3%A9lix-04aa58266/)
+- 💼 LinkedIn: [Gerardo Ulises Sanchez Felix](www.linkedin.com/in/gerardo-ulises-sánchez-félix-04aa58266)
 
 
 
