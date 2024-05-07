@@ -14,6 +14,7 @@ I am Gerardo Sánchez, a passionate student of Computer Engineering at the Tecno
 - 🎓 Currently studying at Tec de Monterrey.
 - 💻 Interests: Databases, Backend Development, Containerization (Docker), Cloud Infrastructure.
 
+
 ## 🛠️ Key Technologies and Platforms
 
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=c%2B%2B) ![Clojure](https://img.shields.io/badge/-Clojure-blue?style=flat-square&logo=clojure)
@@ -32,7 +33,7 @@ I am Gerardo Sánchez, a passionate student of Computer Engineering at the Tecno
   ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 
 
-## Contact
+## ☎ Contact
 
 You can reach me via:
 
