@@ -1,4 +1,4 @@
-### Hola 👋
+### Hi, I'm Gerardo Sanchez 👋
 
 <!--
 **GerardoSanchezz/GerardoSanchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,17 +10,32 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-Soy Gerardo Sánchez, un apasionado estudiante de Ingeniería en Tecnologías Computacionales en la Universidad Tec de Monterrey. Mi fascinación por la tecnología se manifiesta principalmente en mi interés por el manejo de bases de datos y el desarrollo de backend.
-Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, contribuir con proyectos emocionantes y colaborar con equipos talentosos que compartan mi pasión por la innovación y el desarrollo de soluciones impactantes.
+I am Gerardo Sánchez, a passionate student of Computer Engineering at the Tecnológico de Monterrey University. My fascination with technology primarily manifests in my interest in database management and backend development. 
 
 <p align="center">
   <img alt="Minion bailando" width="200" src="Minion bailando.gif">
 </p>
-- 🌱 Ahora mismo estoy aprendiendo la cultura de Devops
+*Languages**: 
+  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+  ![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=c%2B%2B)
+  ![C](https://img.shields.io/badge/-C-red?style=flat-square&logo=c)
+
+- **Databases**: 
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+  ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle)
+
+- **Cloud Platforms**: 
+  ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
+
+- **Tools & Platforms**: 
+  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+  ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+  ![Postman](https://img.shields.io/badge/-Postman-blueviolet?style=flat-square&logo=postman)
 
 
-
-¡Estoy emocionado por lo que el futuro me depara y por las oportunidades de colaboración que pueda encontrar aquí en GitHub!
 
 
 <p align="center">
