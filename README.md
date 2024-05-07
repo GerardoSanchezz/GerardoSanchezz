@@ -15,7 +15,7 @@ Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, con
 
 - 🌱 Ahora mismo estoy aprendiendo la cultura de Devops
 
-  <img align="right" alt="Coding" width="400" src="https://pin.it/DalGn6qCF">
+  <img align="right" alt="Coding" width="400" src="Minion bailando.gif">
 
 ¡Estoy emocionado por lo que el futuro me depara y por las oportunidades de colaboración que pueda encontrar aquí en GitHub!
 
