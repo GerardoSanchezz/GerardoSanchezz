@@ -15,9 +15,13 @@ Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología, con
 
 - 🌱 Ahora mismo estoy aprendiendo la cultura de Devops
 
+  <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.mx%2Fpin%2F1070801248883288195%2F&psig=AOvVaw0oZf95yzeGRXSteRm-OuOU&ust=1715129367375000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDT4veo-oUDFQAAAAAdAAAAABAp">
+
 ¡Estoy emocionado por lo que el futuro me depara y por las oportunidades de colaboración que pueda encontrar aquí en GitHub!
 
-![Gerardo Sánchez GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoSanchezz&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoSanchezz&hide_progress=false)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoSanchezz&hide_progress=True)
+ 
 
 
 
