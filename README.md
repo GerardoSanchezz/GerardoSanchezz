@@ -30,7 +30,6 @@ I am Gerardo Sánchez, a passionate student of Computer Engineering at the Tecno
   ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
   ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
-  ![Postman](https://img.shields.io/badge/-Postman-blueviolet?style=flat-square&logo=postman)
 
 
 ## Contact
