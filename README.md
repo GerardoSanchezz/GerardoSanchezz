@@ -35,11 +35,12 @@ I am Gerardo Sánchez, a passionate student of Computer Engineering at the Tecno
   ![Postman](https://img.shields.io/badge/-Postman-blueviolet?style=flat-square&logo=postman)
 
 
+## Contact
 
+You can reach me via:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoSanchezz&hide_progress=True" alt="Top Langs">
-</p>
+- 📧 Email: [gerardosanchezz14@hotmail.com](mailto:gerardosanchezz14@hotmail.com)
+- 💼 LinkedIn: [Gerardo Ulises Sanchez Felix](https://www.linkedin.com/in/https://www.linkedin.com/in/gerardo-ulises-s%C3%A1nchez-f%C3%A9lix-04aa58266/)
 
 
 
